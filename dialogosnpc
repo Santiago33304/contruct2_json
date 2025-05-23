@@ -1,0 +1,22 @@
+{
+  "c2dictionary": true,
+  "data": {
+    "Guardian": {
+      "c2array": true,
+      "size": [10, 1, 2],
+      "data": [
+        [["Hola viajero", "Guardian"]],
+        [["Necesitamos tu ayuda", "Guardian"]],
+        [["La gema está en la cueva", "Guardian"]],
+        [["Ten cuidado con el monstruo", "Guardian"]],
+        [["Toma esta espada", "Guardian"]]
+        
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]],
+        [["zzzzzzzzz", "Player"]]
+      ]
+    }
+  }
+}
