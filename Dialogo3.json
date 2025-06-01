@@ -2,17 +2,15 @@
   "c2array": true,
   "size": [10, 1, 2],
   "data": [
-    [["El Espíritu de Fuego ha despertado.", "Árbol Jefe"]],
-    [["Se alimenta de los incendios provocados por los humanos.", "Árbol Jefe"]],
-    [["Se ha vuelto incontrolable.", "Árbol Jefe"]],
-    [["Solo tú puedes enfrentarlo.", "Árbol Jefe"]],
-    [["El fuego no es enemigo, es parte de la vida...", "Espíritu"]],
-    [["pero en equilibrio. Lo enfrentaré y restauraré la armonía.", "Espíritu"]],
-    
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]]
+    [["Espíritu, el momento más difícil ha llegado.", "Árbol Jefe"]],
+    [["Lo siento... un poder oscuro recorre el bosque.", "Espíritu"]],
+    [["El Espíritu de Fuego ha despertado, nacido del daño humano.", "Árbol Jefe"]],
+    [["Lo enfrentaré. Pero sé que no es maldad pura, sino dolor desbordado.", "Espíritu"]],
+    [["Es destructivo, pero también parte del ciclo natural si es guiado.", "Árbol Jefe"]],
+    [["Entonces lo purificaré, no lo aniquilaré.", "Espíritu"]],
+    [["Tu compasión es tu fortaleza. No lo olvides.", "Árbol Jefe"]],
+    [["El fuego debe arder para dar vida, no para consumirla.", "Espíritu"]],
+    [["Recuerda quién eres: protector, no vengador.", "Árbol Jefe"]],
+    [["Lo haré por ti, por el bosque… por todos nosotros.", "Espíritu"]]
   ]
 }
-
