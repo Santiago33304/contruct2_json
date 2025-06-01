@@ -2,17 +2,15 @@
   "c2array": true,
   "size": [10, 1, 2],
   "data": [
-    [["Los leñadores han llegado.", "Árbol Jefe"]],
-    [["Sus hachas no escuchan, y sus manos no respetan.", "Árbol Jefe"]],
-    [["Están acabando con árboles jóvenes.", "Árbol Jefe"]],
-    [["Sus herramientas no entienden el valor de una semilla.", "Espíritu"]],
-    [["Haré que sientan la fuerza del bosque.", "Espíritu"]],
-    
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]]
+    [["Espíritu, el bosque está en peligro.", "Árbol Jefe"]],
+    [["Siento el dolor en las raíces... dime qué debo hacer.", "Espíritu"]],
+    [["Los leñadores han llegado con sus hachas afiladas.", "Árbol Jefe"]],
+    [["No dejaré que talen un solo árbol más.", "Espíritu"]],
+    [["Ellos no ven más que madera. Ignoran la vida que habita aquí.", "Árbol Jefe"]],
+    [["Haré que el bosque se defienda a través de mí.", "Espíritu"]],
+    [["Actúa con sabiduría. El equilibrio también es parte de la lucha.", "Árbol Jefe"]],
+    [["Entiendo... protegeré sin destruir.", "Espíritu"]],
+    [["Ve, hijo del bosque. La tierra confía en ti.", "Árbol Jefe"]],
+    [["Estoy listo. El bosque luchará conmigo.", "Espíritu"]]
   ]
 }
-
