@@ -1,1 +1,18 @@
+{
+  "c2array": true,
+  "size": [10, 1, 2],
+  "data": [
+    [["Los leñadores han llegado.", "Árbol Jefe"]],
+    [["Sus hachas no escuchan, y sus manos no respetan.", "Árbol Jefe"]],
+    [["Están acabando con árboles jóvenes.", "Árbol Jefe"]],
+    [["Sus herramientas no entienden el valor de una semilla.", "Espíritu"]],
+    [["Haré que sientan la fuerza del bosque.", "Espíritu"]],
+    
+    [["", ""]],
+    [["", ""]],
+    [["", ""]],
+    [["", ""]],
+    [["", ""]]
+  ]
+}
 
