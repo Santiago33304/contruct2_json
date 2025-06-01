@@ -1,1 +1,18 @@
+{
+  "c2array": true,
+  "size": [10, 1, 2],
+  "data": [
+    [["El Espíritu de Fuego ha despertado.", "Árbol Jefe"]],
+    [["Se alimenta de los incendios provocados por los humanos.", "Árbol Jefe"]],
+    [["Se ha vuelto incontrolable.", "Árbol Jefe"]],
+    [["Solo tú puedes enfrentarlo.", "Árbol Jefe"]],
+    [["El fuego no es enemigo, es parte de la vida...", "Espíritu"]],
+    [["pero en equilibrio. Lo enfrentaré y restauraré la armonía.", "Espíritu"]],
+    
+    [["", ""]],
+    [["", ""]],
+    [["", ""]],
+    [["", ""]]
+  ]
+}
 
