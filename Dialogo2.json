@@ -2,17 +2,15 @@
   "c2array": true,
   "size": [10, 1, 2],
   "data": [
-    [["Ahora los cazadores invaden nuestras tierras.", "Árbol Jefe"]],
-    [["Matan sin razón, alteran el equilibrio de la vida.", "Árbol Jefe"]],
-    [["Protegeré a cada criatura.", "Espíritu"]],
-    [["Este bosque es su hogar, no su campo de caza.", "Espíritu"]],
-    
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]],
-    [["", ""]]
+    [["Espíritu, nuestras criaturas están siendo cazadas.", "Árbol Jefe"]],
+    [["He oído los disparos... llegaré hasta ellos.", "Espíritu"]],
+    [["Los cazadores invaden sin respeto ni comprensión.", "Árbol Jefe"]],
+    [["Cada ser aquí cumple un rol. No los dejaré caer.", "Espíritu"]],
+    [["El equilibrio de la vida se rompe con cada flecha.", "Árbol Jefe"]],
+    [["Mi misión es restaurarlo. No fallaré.", "Espíritu"]],
+    [["Protege a quienes no pueden luchar.", "Árbol Jefe"]],
+    [["Mis pasos serán escudo. Mi voz, advertencia.", "Espíritu"]],
+    [["Hazlo con firmeza, pero sin odio.", "Árbol Jefe"]],
+    [["El bosque guiará mi fuerza. Iré ahora.", "Espíritu"]]
   ]
 }
-
