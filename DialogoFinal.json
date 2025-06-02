@@ -1,1 +1,11 @@
-
+{
+  "c2array": true,
+  "size": [5, 1, 2],
+  "data": [
+    [["¡Lo lograste!", "Árbol Jefe"]],
+    [["Has derrotado a los enemigos que amenazaban este bosque", "Árbol Jefe"]],
+    [["Pero esto no ha terminado... el mundo aún está lleno de oscuridad", "Árbol Jefe"]],
+    [["Mi voluntad es más fuerte que la oscuridad", "Espíritu"]]
+    [["Tu viaje apenas comienza", "Espíritu"]]
+  ]
+}
